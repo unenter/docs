@@ -9,13 +9,6 @@ to: /
 # showLinkIcon: false
 ---
 
-#title
-首页
-
-#content
-前往 **首页**
-::
-
 ::card-group
   ::card
   ---
