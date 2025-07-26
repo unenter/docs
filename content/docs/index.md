@@ -3,12 +3,6 @@ title: 欢迎(/≧▽≦)/
 navigation: false
 ---
 
-::card
----
-to: /
-# showLinkIcon: false
----
-
 ::card-group
   ::card
   ---
