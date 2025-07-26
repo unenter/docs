@@ -18,7 +18,7 @@ actions:
     variant: outline
     to: https://github.com/unenter/qlink
     leftIcon: 'lucide:github'
-  - name: 查看贡献者
+  - name: 贡献者
     variant: outline
     to: /contributors
     leftIcon: 'lucide:users-round'
